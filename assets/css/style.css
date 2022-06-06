@@ -259,7 +259,7 @@ footer {
 
 .form-section {
     clear: left;
-    background-image: url('/assets/images/formbg.jpg');
+    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
